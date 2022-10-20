@@ -6,8 +6,6 @@ public class Main {
         int bottomLimit=-99;
         int topLimit=99;
 
-        System.out.println(array.length);
-
         //array filling
         for (int i=0; i< array.length; i++) {
             for (int j=0; j< array[i].length; j++)
